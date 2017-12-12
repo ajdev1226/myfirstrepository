@@ -1,0 +1,23 @@
+.red{
+    background-color: red;
+    width: 64px;
+    height: 64px;
+}
+
+#blue{
+    background-color: 
+    width: 128px;
+    height: 128px;
+    padding: 32px;
+    margin: 64px;
+    display: inline;
+}
+
+#blue p{
+    color: white;
+}
+
+#navbar{
+    display: fixed;
+    height:32px;
+}
